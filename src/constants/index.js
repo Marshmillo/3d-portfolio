@@ -1,7 +1,7 @@
 import {
-    mobile,
+    devops,
     backend,
-    creator,
+    automation,
     web,
     javascript,
     typescript,
@@ -15,10 +15,10 @@ import {
     git,
     figma,
     docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
+    tech,
+    areamovil,
+    devco,
+    inmetrics,
     carrent,
     jobit,
     tripguide,
@@ -42,20 +42,20 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
-      icon: web,
+      title: "DevOps Engineer",
+      icon: devops,
     },
     {
-      title: "React Native Developer",
-      icon: mobile,
+      title: "Automation Engineer",
+      icon: automation,
     },
     {
       title: "Backend Developer",
       icon: backend,
     },
     {
-      title: "Content Creator",
-      icon: creator,
+      title: "Web Developer",
+      icon: web,
     },
   ];
   
@@ -116,10 +116,10 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
-      iconBg: "#383E56",
+      title: "FullStack Developer",
+      company_name: "Areamóvil",
+      icon: areamovil,
+      iconBg: "#00519c",
       date: "March 2020 - April 2021",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
@@ -129,9 +129,9 @@ import {
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
+      title: "DevOps Engineer",
+      company_name: "Devco",
+      icon: devco,
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
       points: [
@@ -142,10 +142,10 @@ import {
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
-      iconBg: "#383E56",
+      title: "DevOps Engineer",
+      company_name: "Inmetrics LATAM",
+      icon: inmetrics,
+      iconBg: "#ffffff",
       date: "Jan 2022 - Jan 2023",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
@@ -155,10 +155,10 @@ import {
       ],
     },
     {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
-      iconBg: "#E6DEDD",
+      title: "DevOps Engineer",
+      company_name: "Tech and Solve",
+      icon: tech,
+      iconBg: "#8a1ee5",
       date: "Jan 2023 - Present",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
